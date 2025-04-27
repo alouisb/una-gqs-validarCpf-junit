@@ -1,0 +1,27 @@
+# Maven
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+
+# IDEs
+*.iml
+.idea/
+*.ipr
+*.iws
+*.classpath
+*.project
+*.settings/
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de log
+*.log
+
+# Relatórios de cobertura
+jacoco.exec
+target/site/
+
+# VSCode
+.vscode/
